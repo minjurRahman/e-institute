@@ -1,3 +1,11 @@
 .custome-bg{
     background-color: #070606;
 }
+
+.cours-gap{
+    gap: 1.5rem;
+}
+
+@media screen and (max-width:600px) {
+    
+}
